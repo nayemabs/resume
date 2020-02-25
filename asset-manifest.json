@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.15bc5e4a.chunk.css",
+    "main.js": "/resume/static/js/main.749c6e7b.chunk.js",
+    "main.js.map": "/resume/static/js/main.749c6e7b.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.ab232846.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.ab232846.js.map",
+    "static/js/2.7b339b6b.chunk.js": "/resume/static/js/2.7b339b6b.chunk.js",
+    "static/js/2.7b339b6b.chunk.js.map": "/resume/static/js/2.7b339b6b.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.9f444db1b5103fc384103bc7cf41df08.js": "/resume/precache-manifest.9f444db1b5103fc384103bc7cf41df08.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.15bc5e4a.chunk.css.map": "/resume/static/css/main.15bc5e4a.chunk.css.map",
+    "static/js/2.7b339b6b.chunk.js.LICENSE": "/resume/static/js/2.7b339b6b.chunk.js.LICENSE",
+    "static/media/nayem.jpg": "/resume/static/media/nayem.ee215ec6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab232846.js",
+    "static/js/2.7b339b6b.chunk.js",
+    "static/css/main.15bc5e4a.chunk.css",
+    "static/js/main.749c6e7b.chunk.js"
+  ]
+}
